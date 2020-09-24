@@ -10,6 +10,11 @@ position: relative;
     background-image: url('page_back.jpeg') ;
     min-height: 100%;
 }
+.header {
+  background-color: orange;
+  text-align: center;
+  padding: 20px 20px;
+}
 
 .name {
      color: black;
