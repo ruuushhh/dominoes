@@ -1,0 +1,8 @@
+.background{
+position: relative;
+    opacity: 1.0;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* How the image moves wrt scroll, fixed means doesnt move wrt scroll. Default value = scroll*/
+}
