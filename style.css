@@ -13,7 +13,7 @@ position: relative;
 
 .name {
      color: black;
-     background-color: skyblue;
+     background-color: orange;
      padding: 20x;
    }
 
@@ -26,7 +26,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: white;
 }
 
 li {
@@ -35,7 +35,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: orange;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -43,11 +43,11 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color: orange;
 } 
 
 .active {
-  background-color: #4CAF50;
+  background-color: black;
 }
 ul {
   position: -webkit-sticky; /* macbook Safari */
