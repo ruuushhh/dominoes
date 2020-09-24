@@ -14,7 +14,7 @@ position: relative;
 .name {
      color: black;
      background-color: orange;
-     padding: 10x;
+     padding: 20px;
    }
 
 
@@ -37,9 +37,9 @@ li a {
   display: block;
   color: orange;
   text-align: center;
-  padding: 7px, 16px;
+  padding: 14px, 16px;
   text-decoration: none
-  font-family:"Segoe UI",Arial,sans-serif;
+  
 }
 
 /* Change the link color to #111 (black) on hover */
