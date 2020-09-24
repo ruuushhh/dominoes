@@ -1,4 +1,4 @@
-.background{
+.page_back{
 position: relative;
     opacity: 1.0;
     background-position: center;
@@ -6,3 +6,17 @@ position: relative;
     background-repeat: no-repeat;
     background-attachment: fixed; /* How the image moves wrt scroll, fixed means doesnt move wrt scroll. Default value = scroll*/
 }
+.page_back{
+    background-image: url('img8.jpg');
+    min-height: 100%;
+}
+
+.name {
+     color: black;
+     background-color: skyblue;
+     padding: 20x;
+   }
+.middle{
+     text-align: center;
+}
+ 
