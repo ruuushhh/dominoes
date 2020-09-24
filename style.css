@@ -16,6 +16,12 @@ position: relative;
      background-color: skyblue;
      padding: 20x;
    }
+
+.name1 {
+     color: black;
+     background-color: white;
+     padding: 20x;
+   }
 .middle{
      text-align: center;
 }
