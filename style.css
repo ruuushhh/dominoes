@@ -1,4 +1,7 @@
-
+body{
+    font-family: 'Baloo Chettan 2', cursive;
+    line-height: 1.5;
+}
 .bg-image {
   /* The image used */
   background-image: url("page_back.jpg");
