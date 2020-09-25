@@ -3,9 +3,7 @@
   /* The image used */
   background-image: url("page_back.jpeg");
 
-  /* Add the blur effect */
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+
 
   /* Full height */
   height: 100%;
