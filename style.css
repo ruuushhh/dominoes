@@ -63,6 +63,7 @@ ul {
 .columnLR {
   float: left;
   width: 20%;
+   padding: 15px;
 }
 .columnM {
   float: left;
