@@ -55,3 +55,30 @@ ul {
   position: sticky;
   top: 0;
 }
+/* Create three equal columns that floats next to each other */
+.columnLR {
+  float: left;
+  width: 20%;
+}
+.columnM {
+  float: left;
+  width: 60%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+  .columnLR {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .columnM {
+    width: 100%;
+  }
+}
