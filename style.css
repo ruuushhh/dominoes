@@ -1,15 +1,21 @@
-.page_back{
-position: relative;
-    opacity: 1.0;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed; /* How the image moves wrt scroll, fixed means doesnt move wrt scroll. Default value = scroll*/
+
+.bg-image {
+  /* The image used */
+  background-image: url("page_back.jpeg");
+
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.page_back{
-    background-image: url('page_back.jpeg') ;
-    min-height: 100%;
-}
+
 .header {
   color: white;
   background-color: black;
@@ -94,6 +100,6 @@ ul {
 .grid-container > div {
   background-color: white;
   text-align: start;
-  padding: 10px 0px;
+  
   font-size: 10px;
 }
