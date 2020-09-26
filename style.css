@@ -52,8 +52,9 @@ body{
 }
 
 .side-menu{
-    text-align: left;
+    text-align: right;
     color:white;
+    padding-right: 20px; 
 }
 
 
