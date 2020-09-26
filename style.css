@@ -115,7 +115,7 @@ ul {
   grid-template-rows: auto ;
   grid-gap: 10px;
   
-  padding: 10px;
+  /*padding: 10px;*/
 }
 
 .grid-container > div {
