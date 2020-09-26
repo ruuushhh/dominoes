@@ -1,6 +1,7 @@
 body{
     font-family: 'Baloo Chettan 2', cursive;
     line-height: 1.5;
+    background-color:	#DCDCDC;
 }
 .title-text{
     font-size: 40px;
@@ -14,7 +15,7 @@ body{
 }
 #topPicks{
     height: auto;
-    background: #C0C0C0;
+    background: #DCDCDC;
     text-align: center;
     padding-top:5px;
     padding-right:50px;
@@ -44,8 +45,8 @@ body{
 }
 
 .header {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: white;
   text-align: center;
   padding: 10px 10px;
 
@@ -80,7 +81,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #708090;
+  background-color: white;
 }
 
 li {
