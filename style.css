@@ -165,7 +165,7 @@ width:200px;
 #menu:hover{
     transition: transform 2s ease,color 2s ease;
     transform:translateY(-10px);
-    color:darkorange;
+    color: red;
     cursor: pointer;
 }
 #social-icons{
