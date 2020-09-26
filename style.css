@@ -99,11 +99,11 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #D3D3D3;
+  background-color: orange;
 } 
 
 .active {
-  background-color: orange;
+  background-color: darkorange;
 }
 ul {
   position: -webkit-sticky; /* macbook Safari */
