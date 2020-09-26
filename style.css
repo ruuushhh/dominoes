@@ -160,7 +160,7 @@ height:200px;
 width:200px; 
 } 
 #menu{
-    font-color:orange;
+    color:orange;
 }
 #menu:hover{
     transition: transform 2s ease,color 2s ease;
