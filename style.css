@@ -59,10 +59,11 @@ body{
 .side-menu {
   position: -webkit-sticky; /* macbook Safari */
   position: sticky;
+  top:0;
 
 }
 .side-menu a {
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   
  
