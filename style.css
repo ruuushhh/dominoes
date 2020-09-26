@@ -59,7 +59,7 @@ body{
 .hover {
   position: -webkit-sticky; /* macbook Safari */
   position: sticky;
-  top:0;
+  top:200px;
 
 }
 .side-menu a {
