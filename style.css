@@ -111,3 +111,10 @@ float:left;
 height:180px;
 width:180px; 
 } 
+
+#menu:hover{
+    transition: transform 2s ease,color 2s ease;
+    transform:translateY(-10px);
+    color:red;
+    cursor: pointer;
+}
