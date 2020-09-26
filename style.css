@@ -118,3 +118,6 @@ width:180px;
     color:white;
     cursor: pointer;
 }
+#social-icons a:hover{
+    transform: translateY(-20px);
+}
