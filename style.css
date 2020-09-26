@@ -13,7 +13,7 @@ body{
   width: 100%;
 }
 #topPicks{
-    height: 300px;
+    height: auto;
     background: #C0C0C0;
     text-align: center;
     padding-top:5px;
