@@ -53,7 +53,7 @@ body{
 
 .side-menu{
     text-align: right;
-    color:white;
+    
     padding-right: 20px; 
 }
 .side-menu {
@@ -61,9 +61,16 @@ body{
   position: sticky;
 
 }
-
+.side-menu a {
+  
+  color: white;
+  
+ 
+  text-decoration: none
+  
+}
 .side-menu a:hover {
-  background-color: white;
+  color: orange;
 } 
 
 
