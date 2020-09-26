@@ -56,7 +56,15 @@ body{
     color:white;
     padding-right: 20px; 
 }
+.side-menu {
+  position: -webkit-sticky; /* macbook Safari */
+  position: sticky;
 
+}
+
+.side-menu a:hover {
+  background-color: white;
+} 
 
 
 ul {
