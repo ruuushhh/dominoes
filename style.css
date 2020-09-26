@@ -147,9 +147,9 @@ ul {
 }
 
 .grid-container > div {
-  background-color: black;
+  background-color: orange;
   text-align: start;
-  color: orange;
+  color: black;
   font-size: 10px;
 }
  .iconDetails {
