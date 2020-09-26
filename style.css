@@ -90,7 +90,7 @@ li {
 
 li a {
   display: block;
-  color: orange;
+  color: black;
   text-align: center;
   padding: 7px 20px 7px 20px ;
   text-decoration: none
@@ -99,11 +99,11 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: white;
+  background-color: #FFA07A;
 } 
 
 .active {
-  background-color: black;
+  background-color: orange;
 }
 ul {
   position: -webkit-sticky; /* macbook Safari */
