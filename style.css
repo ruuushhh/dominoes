@@ -115,6 +115,6 @@ width:180px;
 #menu:hover{
     transition: transform 2s ease,color 2s ease;
     transform:translateY(-10px);
-    color:rgb(255, 60, 0);
+    color:white;
     cursor: pointer;
 }
