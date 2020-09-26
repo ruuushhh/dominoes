@@ -115,7 +115,7 @@ ul {
   grid-template-rows: auto ;
   grid-gap: 10px;
   
-  /*padding: 10px;*/
+  padding: 10px;
 }
 
 .grid-container > div {
@@ -127,8 +127,8 @@ ul {
  .iconDetails {
  
 float:left; 
-height:180px;
-width:180px; 
+height:190px;
+width:190px; 
 } 
 
 #menu:hover{
