@@ -155,7 +155,7 @@ ul {
 }
 #more {display: none;}
 #readmore{background-color:white;
-  width:10px;
+  width:auto;
     height:10px;
 border:none;
 outline:none;
