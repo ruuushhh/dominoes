@@ -153,6 +153,17 @@ ul {
   color: black;
   font-size: 10px;
 }
+
+@media screen and (max-width: 600px) {
+ #more {display: none;}
+#readmore{background-color:white;
+width:auto;
+height:10px;
+font-size:10px;
+border:none;
+outline:none;
+color:grey;}
+}
 #more {display: none;}
 #readmore{background-color:white;
 width:auto;
