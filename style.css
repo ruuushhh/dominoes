@@ -153,8 +153,13 @@ ul {
   color: black;
   font-size: 10px;
 }
- .iconDetails {
- 
+#more {display: none;}
+#readmore{background-color:white;
+border:none;
+outline:none;
+color:grey;}
+
+.iconDetails {
 float:left; 
 height:200px;
 width:200px; 
