@@ -154,6 +154,7 @@ ul {
   font-size: 10px;
 }
 
+#readmore{display:none;}
 @media screen and (max-width: 600px) {
  #more {display: none;}
 #readmore{background-color:white;
