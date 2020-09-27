@@ -135,7 +135,7 @@ ul {
 }
 @media screen and (max-width: 600px) {
   .columnM {
-    width: 100%;
+    width: 70%;
   }
 }
 .grid-container {
