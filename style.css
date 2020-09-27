@@ -158,7 +158,7 @@ ul {
     width: 100%;
   }
 }
-#readmore{display:none;}
+@media screen and (min-width: 1200px){#readmore{display:none;}}
 @media screen and (max-width: 600px) {
  #more {display: none;}
 #readmore{background-color:white;
