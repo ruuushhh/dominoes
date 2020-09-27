@@ -1,4 +1,4 @@
-<script>
+
 window.onscroll = function() {myFunction()};
 
 var header = document.getElementById("myHeader");
@@ -11,4 +11,4 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
-</script>
+
