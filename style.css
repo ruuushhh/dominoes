@@ -159,8 +159,7 @@ ul {
   }
 }
 @media screen and (min-width: 1200px){.readmore{display:none;}}
-@media only screen and (min-width: 992px) {.readmore{display:none;}}
-@media only screen and (min-width: 768px) {.readmore{display:none;}}
+
 @media only screen and (min-width: 600px) {
  .more {display: none;}
 .readmore{background-color:white;
