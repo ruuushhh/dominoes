@@ -159,7 +159,7 @@ ul {
   }
 }
 @media screen and (min-width: 1200px){.readmore{display:none;}}
-@media only screen and (min-width: 992px) {
+@media only screen and (max-width: 992px) {
 .more {display: none;}
 .readmore{background-color:white;
 width:auto;
