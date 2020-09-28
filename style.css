@@ -159,7 +159,15 @@ ul {
   }
 }
 @media screen and (min-width: 1200px){.readmore{display:none;}}
-
+@media screen and (max-width: 768px) {
+ .more {display: none;}
+.readmore{background-color:white;
+width:auto;
+height:10px;
+font-size:10px;
+border:none;
+outline:none;
+color:grey;}}
 
 @media screen and (max-width: 600px) {
  .more {display: none;}
