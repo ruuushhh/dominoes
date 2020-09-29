@@ -208,18 +208,14 @@ outline:none;
 color:grey;}
 }
 
-@media screen and (max-width: 600px) {
- .iconDetails {
-float:left;
-padding 10x;
-height:100px;
-width:100px; 
-}    
-}
+
 .iconDetails {
+overflow:hidden;
 float:left; 
-height:200px;
-width:200px; 
+height:auto;
+max-height:200px;
+width:auto; 
+max-width:200px;
 } 
 #menu{
     color:orange;
