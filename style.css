@@ -212,10 +212,10 @@ color:grey;}
 .iconDetails {
 overflow:hidden;
 float:left; 
-height:auto;
-max-height:200px;
-width:auto; 
-max-width:200px;
+
+height:200px;
+
+width:200px;
 } 
 #menu{
     color:orange;
