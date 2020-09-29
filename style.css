@@ -121,6 +121,18 @@ ul {
   float: left;
   width: 60%;
 }
+
+.stylefoodmenu{
+    font-size:20px; 
+    margin-left:220px; 
+    margin-right: 200px;
+}
+@media screen and (max-width: 600px) {
+ .stylefoodmenu{
+    font-size:10px; 
+    margin-left:120px; 
+    margin-right: 120px;
+    }}   
 /* Clear floats after the columns */
 .row:after {
   content: "";
